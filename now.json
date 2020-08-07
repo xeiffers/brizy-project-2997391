@@ -1,0 +1,1 @@
+{"routes":[{"src":"/","dest":"/index.html"},{"src":"/cityscapes","dest":"/cityscapes.html"},{"src":"/landscapes","dest":"/landscapes.html"},{"src":"/streetphotography","dest":"/streetphotography.html"},{"src":"/shows","dest":"/shows.html"},{"src":"/people","dest":"/people.html"},{"src":"/sobre-mi","dest":"/sobre-mi.html"},{"src":"/fotografia","dest":"/fotografia.html"}]}
